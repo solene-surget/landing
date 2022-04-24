@@ -1,0 +1,9 @@
+.btn-orange{
+	background-color: #F28D22;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'IBM Plex Sans', sans-serif;
+	text-decoration: none;
+}
